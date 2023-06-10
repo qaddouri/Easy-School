@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948518163905",
+    "project_id": "school-a2613",
+    "storage_bucket": "school-a2613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948518163905:android:b7225c9f9fee53d8120b40",
+        "android_client_info": {
+          "package_name": "com.techhunters.easyschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948518163905-8enfien20up9g7vsa8vd18h69r3n5ji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsW081aKrs5JWxHkemCGXf1h7kjfu6E00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948518163905-8enfien20up9g7vsa8vd18h69r3n5ji8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
