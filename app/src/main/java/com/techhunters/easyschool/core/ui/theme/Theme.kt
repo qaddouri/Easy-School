@@ -17,10 +17,10 @@ import androidx.core.view.WindowCompat
 import androidx.compose.ui.graphics.Color
 
 private val DarkColorScheme = darkColorScheme(
-    primary = Green80,
-    onPrimary = Green20,
-    primaryContainer = Green30,
-    onPrimaryContainer = Green90,
+    primary = black100,
+    onPrimary = black0,
+//    primaryContainer = Green30,
+//    onPrimaryContainer = Green90,
     inversePrimary = Green40,
     /*secondary = DarkGreen80,
     onSecondary = DarkGreen20,
@@ -34,22 +34,22 @@ private val DarkColorScheme = darkColorScheme(
     onError = Red20,
     errorContainer = Red30,
     onErrorContainer = Red90,
-    background = Grey10,
-    onBackground = Grey90,
-    surface = GreenGrey30,
-    onSurface = GreenGrey80,
-    inverseSurface = Grey90,
-    inverseOnSurface = Grey10,
+    background = black0,
+    onBackground = black100,
+    surface = black30,// كرتات
+    onSurface = black100,//  لون الكتابة الي فوق
+    inverseSurface = black100,   // مضهر مختلف الكرت
+    inverseOnSurface = black30, // مضهر مختلف فوق الكرت
    /* surfaceVariant = GreenGrey30,
     onSurfaceVariant = GreenGrey80,*/
-    outline = GreenGrey80
+    outline = black46  // حواف التكست بوكس
 )
 
 private val LightColorScheme = lightColorScheme(
-    primary = Green40,
-    onPrimary = Color.White,
-    primaryContainer = Green90,
-    onPrimaryContainer = Green10,
+    primary = black0,
+    onPrimary = black100,
+//    primaryContainer = Green90,
+//    onPrimaryContainer = Green10,
     inversePrimary = Green80,
     /*secondary = DarkGreen40,
     onSecondary = Color.White,
@@ -63,15 +63,15 @@ private val LightColorScheme = lightColorScheme(
     onError = Color.White,
     errorContainer = Red90,
     onErrorContainer = Red10,
-    background = Grey99,
-    onBackground = Grey10,
-    surface = GreenGrey90,
-    onSurface = GreenGrey30,
-    inverseSurface = Grey20,
-    inverseOnSurface = Grey95,
+    background = black100,
+    onBackground = black0,
+    surface = black93,
+    onSurface = black0,
+    inverseSurface = black0,
+    inverseOnSurface = black93,
    /* surfaceVariant = GreenGrey90,
     onSurfaceVariant = GreenGrey30,*/
-    outline = GreenGrey50
+    outline = black62
 
     /* Other default colors to override
     background = Color(0xFFFFFBFE),

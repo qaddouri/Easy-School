@@ -13,11 +13,29 @@ val Pink40 = Color(0xFF7D5260)*/
 
 
 
-val black5 = Color(0xff0d0d0d)
-val black10 = Color(0xff1a1a1a)
-val black40 = Color(0xff666666)
-val black95 = Color(0xfff2f2f2)
+val black0 = Color(0xff000000)
+val black40 = Color(0xff566275)
+val black58 = Color(0xff939393)
+val black100 = Color(0xfff2f2f2)
 
+val black22 = Color(0xff383838)
+val black75 = Color(0xffC0BFC0)
+val black93 = Color(0xffECECEC)
+val black73 = Color(0xffBBBBBB)
+
+val black23 = Color(0xff343940)
+val black46 = Color(0xff757575)
+val black68 = Color(0xffAEAEAE)
+val black25 = Color(0xff3F3F3F)
+
+val black62 = Color(0xff9E9E9E)
+val black74 = Color(0xffB2B8C0)
+val brown27 = Color(0xff704619)
+val black49 = Color(0xff7D7D7D)
+val red66 = Color(0xffFF5252)
+val black30 = Color(0xff4D4C4C)
+
+//---------------------------------------------------------
 val Green10 = Color(0xff003314)
 val Green20 = Color(0xff006627)
 val Green30 = Color(0xff00993b)
